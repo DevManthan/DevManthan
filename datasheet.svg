@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="344" viewBox="0 0 1200 344">
+<defs>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#FF7A1A" stroke-opacity=".12" stroke-width="2"/></pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="342" fill="#0E0E0E" stroke="#262626" stroke-width="1"/>
+<text x="32" y="38" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="12" font-weight="700" letter-spacing="3"><tspan fill="#FF7A1A">01</tspan><tspan fill="#4A4A4A"> / </tspan><tspan fill="#8A8A8A">DATASHEET</tspan></text><line x1="32" y1="52" x2="1168" y2="52" stroke="#262626"/>
+<g opacity="0"><set attributeName="opacity" to="1" begin="0.25s" fill="freeze"/>
+  <text x="32" y="98" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="13" font-weight="700" letter-spacing="2" fill="#8A8A8A">PART</text>
+  <line x1="78" y1="94" x2="404" y2="94" stroke="#4A4A4A" stroke-dasharray="2 5"/>
+  <text x="424" y="98" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="15" fill="#FF7A1A" font-weight="700">MANTHAN-01  ·  general-purpose builder</text>
+  <line x1="32" y1="114" x2="1168" y2="114" stroke="#262626"/>
+</g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="0.55s" fill="freeze"/>
+  <text x="32" y="138" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="13" font-weight="700" letter-spacing="2" fill="#8A8A8A">FAMILY</text>
+  <line x1="98" y1="134" x2="404" y2="134" stroke="#4A4A4A" stroke-dasharray="2 5"/>
+  <text x="424" y="138" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="15" fill="#EDEDED" font-weight="400">AI &amp; Data Science</text>
+  <line x1="32" y1="154" x2="1168" y2="154" stroke="#262626"/>
+</g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="0.85s" fill="freeze"/>
+  <text x="32" y="178" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="13" font-weight="700" letter-spacing="2" fill="#8A8A8A">CORE</text>
+  <line x1="78" y1="174" x2="404" y2="174" stroke="#4A4A4A" stroke-dasharray="2 5"/>
+  <text x="424" y="178" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="15" fill="#EDEDED" font-weight="400">C  ·  Java  ·  Python  ·  JavaScript</text>
+  <line x1="32" y1="194" x2="1168" y2="194" stroke="#262626"/>
+</g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="1.15s" fill="freeze"/>
+  <text x="32" y="218" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="13" font-weight="700" letter-spacing="2" fill="#8A8A8A">INTERFACES</text>
+  <line x1="136" y1="214" x2="404" y2="214" stroke="#4A4A4A" stroke-dasharray="2 5"/>
+  <text x="424" y="218" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="15" fill="#EDEDED" font-weight="400">Embedded  ·  IoT  ·  Data Science  ·  Software</text>
+  <line x1="32" y1="234" x2="1168" y2="234" stroke="#262626"/>
+</g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="1.45s" fill="freeze"/>
+  <text x="32" y="258" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="13" font-weight="700" letter-spacing="2" fill="#8A8A8A">OPERATING MODE</text>
+  <line x1="174" y1="254" x2="404" y2="254" stroke="#4A4A4A" stroke-dasharray="2 5"/>
+  <text x="424" y="258" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="15" fill="#EDEDED" font-weight="400">wire it up → read the data → make it useful</text>
+  <line x1="32" y1="274" x2="1168" y2="274" stroke="#262626"/>
+</g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="1.75s" fill="freeze"/>
+  <text x="32" y="298" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="13" font-weight="700" letter-spacing="2" fill="#8A8A8A">STATUS</text>
+  <line x1="98" y1="294" x2="404" y2="294" stroke="#4A4A4A" stroke-dasharray="2 5"/>
+  <circle cx="436" cy="293" r="5" fill="#FF7A1A" filter="url(#glow)"><animate attributeName="opacity" values="1;.25;1" dur="1.2s" repeatCount="indefinite"/></circle><text x="452" y="298" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="15" fill="#EDEDED" font-weight="400">open to collaboration on IoT, embedded &amp; data projects</text>
+  <line x1="32" y1="314" x2="1168" y2="314" stroke="#262626"/>
+</g>
+<text x="1168" y="38" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace" font-size="11" fill="#4A4A4A">REV 2026 · SHEET 1 OF 1</text>
+<path d="M1 18 V1 H18" fill="none" stroke="#FF7A1A" stroke-width="2"/><path d="M1182 1 H1199 V18" fill="none" stroke="#FF7A1A" stroke-width="2"/><path d="M1 326 V343 H18" fill="none" stroke="#FF7A1A" stroke-width="2"/><path d="M1182 343 H1199 V326" fill="none" stroke="#FF7A1A" stroke-width="2"/>
+</svg>

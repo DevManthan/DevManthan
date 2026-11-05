@@ -1,16 +1,13 @@
-## Hi there 👋
+<img src="./assets/header.svg" width="100%" alt="Manthan Dhiman — AI & Data Science · Embedded · IoT · Software">
 
-<!--
-**DevManthan/DevManthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<img src="./assets/datasheet.svg" width="100%" alt="about me">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img src="./assets/pinout.svg" width="100%" alt="tech stack">
+
+<br>
+
+<a href="mailto:manthanmaddycraft2007@gmail.com"><img src="./assets/footer.svg" width="100%" alt="manthanmaddycraft2007@gmail.com"></a>
